@@ -58,7 +58,7 @@ sh scripts/EXP-Best/FD_Best.sh
 If you find this repository useful for your work, please consider citing it as follows:
 
 ```bibtex
-@inproceedings{Zeng2022AreTE,
+@inproceedings{
   title={RMixMLP:An all-MLP Block for machine remaining useful life prediction},
   year={2023}
 }
