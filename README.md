@@ -59,7 +59,8 @@ If you find this repository useful for your work, please consider citing it as f
 
 ```bibtex
 @inproceedings{
-  title={RMixMLP:An all-MLP Block for machine remaining useful life prediction},
+  author={Jinning Qin, Yanyan Wanga, Honglin Zhang, Xurui Ma, Shunran Song},
+  title={RMixMLP: An all-MLP Block for machine remaining useful life prediction},
   year={2023}
 }
 ```
