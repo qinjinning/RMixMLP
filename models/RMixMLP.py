@@ -56,6 +56,6 @@ class Model(nn.Module):
         
         for i in range(self.layers):
             for _ in range(self.r_times+1):
-                x = self.RMixMLPBlock_layers[0](x)
+                x = self.RMixMLPBlock_layers[i](x)
         x = self.Linear(x) 
         return x # [Batch, Output length, Channel]
